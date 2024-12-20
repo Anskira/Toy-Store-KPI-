@@ -15,3 +15,6 @@ to display how many stores does Maven Toys operate, how many transactions were r
 8.  Add new measures 'Total Orders' by counting the distinct values in the 'Sales_ID' column and 'Total Revenue' and 'Total Profit' by summing all the values in 'Revenue' and 'Profit' columns
 9.  In the PowerBI dashboard, add the KPIs, 'Total orders', 'Revenue' and 'Start of Month' and create a slicer containing the 'Store Location'
 10.  Create a horizontal bar chart that displays the total number of orders by product category and plot a revenue trend by month
+
+ [Dashboard](Toys_Report.png)
+
