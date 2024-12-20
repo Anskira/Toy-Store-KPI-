@@ -27,3 +27,28 @@ The dataset contains of four schemas:
     
  ![Dashboard](Toys_Report.png)
 
+### Inference
+1.    High-Level KPIs:
+-    Total Orders: The company processed a significant volume of 41,830 orders over the given time frame, indicating robust operational activity.
+-    Revenue and Profit Trends: A total revenue of $6,58,716 and a profit of $1,80,445 reflect a healthy profit margin. These metrics allow the team to assess overall financial health and profitability.
+
+2.    Product Insights:
+-    Top-Selling Categories: Toys lead in terms of orders, followed by Art & Craft, and Games, emphasizing the primary revenue drivers for Maven Toys.
+-    Product Pricing: The analysis of the lowest and highest-priced products can help the team identify gaps or opportunities for margin optimization.
+
+3.    Seasonal Trends:
+-    Revenue by Month: The dashboard highlights fluctuations in revenue over time, providing insights into seasonal trends and periods of peak activity (e.g., spikes around holidays or promotions).
+-    Monthly Order Trends: The visualizations help identify any consistent growth or downturns in customer transactions.
+
+4.    Geographical Performance:
+-    The slicer for store locations enables the leadership to assess performance by store type (e.g., Airport, Commercial, Downtown, Residential). This can aid in resource allocation and marketing strategy adjustments.
+
+### Conclusion
+The Maven Toys dashboard effectively highlights key business metrics, such as total orders, revenue, and profit, while providing insights into product performance, seasonal trends, and store-level analysis. This interactive tool empowers the leadership team to make data-driven decisions, optimize operations, and strategize for future growth.
+
+
+
+
+
+
+
